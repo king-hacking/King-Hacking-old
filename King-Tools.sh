@@ -548,7 +548,7 @@ clear
 echo -e $red
 figlet "gmail_attacker"
 cd ~
-https://github.com/AyoubSirai/gmail_attacker.git
+git clone https://github.com/AyoubSirai/gmail_attacker.git
 fi
 if [ $pass = 9 ]
 then
@@ -556,7 +556,7 @@ clear
 echo -e $red
 figlet "weeman"
 cd ~
-https://github.com/evait-security/weeman.git
+git clone https://github.com/evait-security/weeman.git
 fi
 if [ $pass = 10 ]
 then
