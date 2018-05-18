@@ -61,7 +61,7 @@ clear
 echo -e $red
 figlet "xerxes"
 cd ~
-git clone https://github.com/zanyarjamal/xerxer
+git clone https://github.com/zanyarjamal/xerxes
 fi
 if [ $ddos = 2 ]
 then
@@ -647,7 +647,7 @@ clear
 echo -e $red
 figlet "Ngrok"
 cd ~
-git clone https://github.com/themastersunil/ngrok
+git clone https://github.com/themastersunil/ngrok.git
 fi
 if [ $other = 2 ]
 then
